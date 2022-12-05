@@ -1,0 +1,15 @@
+K:\C#\Microsoft Visual Studio\T\Even OR Odd\bin\Debug\net7.0\Even OR Odd.exe
+K:\C#\Microsoft Visual Studio\T\Even OR Odd\bin\Debug\net7.0\Even OR Odd.deps.json
+K:\C#\Microsoft Visual Studio\T\Even OR Odd\bin\Debug\net7.0\Even OR Odd.runtimeconfig.json
+K:\C#\Microsoft Visual Studio\T\Even OR Odd\bin\Debug\net7.0\Even OR Odd.dll
+K:\C#\Microsoft Visual Studio\T\Even OR Odd\bin\Debug\net7.0\Even OR Odd.pdb
+K:\C#\Microsoft Visual Studio\T\Even OR Odd\obj\Debug\net7.0\Even OR Odd.csproj.AssemblyReference.cache
+K:\C#\Microsoft Visual Studio\T\Even OR Odd\obj\Debug\net7.0\Even OR Odd.GeneratedMSBuildEditorConfig.editorconfig
+K:\C#\Microsoft Visual Studio\T\Even OR Odd\obj\Debug\net7.0\Even OR Odd.AssemblyInfoInputs.cache
+K:\C#\Microsoft Visual Studio\T\Even OR Odd\obj\Debug\net7.0\Even OR Odd.AssemblyInfo.cs
+K:\C#\Microsoft Visual Studio\T\Even OR Odd\obj\Debug\net7.0\Even OR Odd.csproj.CoreCompileInputs.cache
+K:\C#\Microsoft Visual Studio\T\Even OR Odd\obj\Debug\net7.0\Even OR Odd.dll
+K:\C#\Microsoft Visual Studio\T\Even OR Odd\obj\Debug\net7.0\refint\Even OR Odd.dll
+K:\C#\Microsoft Visual Studio\T\Even OR Odd\obj\Debug\net7.0\Even OR Odd.pdb
+K:\C#\Microsoft Visual Studio\T\Even OR Odd\obj\Debug\net7.0\Even OR Odd.genruntimeconfig.cache
+K:\C#\Microsoft Visual Studio\T\Even OR Odd\obj\Debug\net7.0\ref\Even OR Odd.dll
