@@ -1,0 +1,15 @@
+K:\C#\Microsoft Visual Studio\Training\Celsius to Fahrenheit\bin\Debug\net7.0\Celsius to Fahrenheit.exe
+K:\C#\Microsoft Visual Studio\Training\Celsius to Fahrenheit\bin\Debug\net7.0\Celsius to Fahrenheit.deps.json
+K:\C#\Microsoft Visual Studio\Training\Celsius to Fahrenheit\bin\Debug\net7.0\Celsius to Fahrenheit.runtimeconfig.json
+K:\C#\Microsoft Visual Studio\Training\Celsius to Fahrenheit\bin\Debug\net7.0\Celsius to Fahrenheit.dll
+K:\C#\Microsoft Visual Studio\Training\Celsius to Fahrenheit\bin\Debug\net7.0\Celsius to Fahrenheit.pdb
+K:\C#\Microsoft Visual Studio\Training\Celsius to Fahrenheit\obj\Debug\net7.0\Celsius to Fahrenheit.csproj.AssemblyReference.cache
+K:\C#\Microsoft Visual Studio\Training\Celsius to Fahrenheit\obj\Debug\net7.0\Celsius to Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+K:\C#\Microsoft Visual Studio\Training\Celsius to Fahrenheit\obj\Debug\net7.0\Celsius to Fahrenheit.AssemblyInfoInputs.cache
+K:\C#\Microsoft Visual Studio\Training\Celsius to Fahrenheit\obj\Debug\net7.0\Celsius to Fahrenheit.AssemblyInfo.cs
+K:\C#\Microsoft Visual Studio\Training\Celsius to Fahrenheit\obj\Debug\net7.0\Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+K:\C#\Microsoft Visual Studio\Training\Celsius to Fahrenheit\obj\Debug\net7.0\Celsius to Fahrenheit.dll
+K:\C#\Microsoft Visual Studio\Training\Celsius to Fahrenheit\obj\Debug\net7.0\refint\Celsius to Fahrenheit.dll
+K:\C#\Microsoft Visual Studio\Training\Celsius to Fahrenheit\obj\Debug\net7.0\Celsius to Fahrenheit.pdb
+K:\C#\Microsoft Visual Studio\Training\Celsius to Fahrenheit\obj\Debug\net7.0\Celsius to Fahrenheit.genruntimeconfig.cache
+K:\C#\Microsoft Visual Studio\Training\Celsius to Fahrenheit\obj\Debug\net7.0\ref\Celsius to Fahrenheit.dll
