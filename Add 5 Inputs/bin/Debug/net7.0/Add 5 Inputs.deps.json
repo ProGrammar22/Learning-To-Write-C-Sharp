@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Add 5 Inputs/1.0.0": {
+        "runtime": {
+          "Add 5 Inputs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Add 5 Inputs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

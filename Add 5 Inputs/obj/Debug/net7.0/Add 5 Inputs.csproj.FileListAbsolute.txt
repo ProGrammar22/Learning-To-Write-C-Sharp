@@ -1,0 +1,15 @@
+K:\C#\Microsoft Visual Studio\T\Add 5 Inputs\obj\Debug\net7.0\Add 5 Inputs.csproj.AssemblyReference.cache
+K:\C#\Microsoft Visual Studio\T\Add 5 Inputs\obj\Debug\net7.0\Add 5 Inputs.GeneratedMSBuildEditorConfig.editorconfig
+K:\C#\Microsoft Visual Studio\T\Add 5 Inputs\obj\Debug\net7.0\Add 5 Inputs.AssemblyInfoInputs.cache
+K:\C#\Microsoft Visual Studio\T\Add 5 Inputs\obj\Debug\net7.0\Add 5 Inputs.AssemblyInfo.cs
+K:\C#\Microsoft Visual Studio\T\Add 5 Inputs\obj\Debug\net7.0\Add 5 Inputs.csproj.CoreCompileInputs.cache
+K:\C#\Microsoft Visual Studio\T\Add 5 Inputs\bin\Debug\net7.0\Add 5 Inputs.exe
+K:\C#\Microsoft Visual Studio\T\Add 5 Inputs\bin\Debug\net7.0\Add 5 Inputs.deps.json
+K:\C#\Microsoft Visual Studio\T\Add 5 Inputs\bin\Debug\net7.0\Add 5 Inputs.runtimeconfig.json
+K:\C#\Microsoft Visual Studio\T\Add 5 Inputs\bin\Debug\net7.0\Add 5 Inputs.dll
+K:\C#\Microsoft Visual Studio\T\Add 5 Inputs\bin\Debug\net7.0\Add 5 Inputs.pdb
+K:\C#\Microsoft Visual Studio\T\Add 5 Inputs\obj\Debug\net7.0\Add 5 Inputs.dll
+K:\C#\Microsoft Visual Studio\T\Add 5 Inputs\obj\Debug\net7.0\refint\Add 5 Inputs.dll
+K:\C#\Microsoft Visual Studio\T\Add 5 Inputs\obj\Debug\net7.0\Add 5 Inputs.pdb
+K:\C#\Microsoft Visual Studio\T\Add 5 Inputs\obj\Debug\net7.0\Add 5 Inputs.genruntimeconfig.cache
+K:\C#\Microsoft Visual Studio\T\Add 5 Inputs\obj\Debug\net7.0\ref\Add 5 Inputs.dll
