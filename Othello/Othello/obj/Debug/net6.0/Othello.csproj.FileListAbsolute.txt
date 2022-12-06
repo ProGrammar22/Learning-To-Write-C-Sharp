@@ -1,0 +1,30 @@
+K:\C#\Microsoft Visual Studio\Projects\Othello\Othello\bin\Debug\net6.0\Othello.exe
+K:\C#\Microsoft Visual Studio\Projects\Othello\Othello\bin\Debug\net6.0\Othello.deps.json
+K:\C#\Microsoft Visual Studio\Projects\Othello\Othello\bin\Debug\net6.0\Othello.runtimeconfig.json
+K:\C#\Microsoft Visual Studio\Projects\Othello\Othello\bin\Debug\net6.0\Othello.dll
+K:\C#\Microsoft Visual Studio\Projects\Othello\Othello\bin\Debug\net6.0\Othello.pdb
+K:\C#\Microsoft Visual Studio\Projects\Othello\Othello\obj\Debug\net6.0\Othello.csproj.AssemblyReference.cache
+K:\C#\Microsoft Visual Studio\Projects\Othello\Othello\obj\Debug\net6.0\Othello.GeneratedMSBuildEditorConfig.editorconfig
+K:\C#\Microsoft Visual Studio\Projects\Othello\Othello\obj\Debug\net6.0\Othello.AssemblyInfoInputs.cache
+K:\C#\Microsoft Visual Studio\Projects\Othello\Othello\obj\Debug\net6.0\Othello.AssemblyInfo.cs
+K:\C#\Microsoft Visual Studio\Projects\Othello\Othello\obj\Debug\net6.0\Othello.csproj.CoreCompileInputs.cache
+K:\C#\Microsoft Visual Studio\Projects\Othello\Othello\obj\Debug\net6.0\Othello.dll
+K:\C#\Microsoft Visual Studio\Projects\Othello\Othello\obj\Debug\net6.0\refint\Othello.dll
+K:\C#\Microsoft Visual Studio\Projects\Othello\Othello\obj\Debug\net6.0\Othello.pdb
+K:\C#\Microsoft Visual Studio\Projects\Othello\Othello\obj\Debug\net6.0\Othello.genruntimeconfig.cache
+K:\C#\Microsoft Visual Studio\Projects\Othello\Othello\obj\Debug\net6.0\ref\Othello.dll
+C:\Users\Hina Zaidi\source\repos\Projects\Othello\Othello\bin\Debug\net6.0\Othello.exe
+C:\Users\Hina Zaidi\source\repos\Projects\Othello\Othello\bin\Debug\net6.0\Othello.deps.json
+C:\Users\Hina Zaidi\source\repos\Projects\Othello\Othello\bin\Debug\net6.0\Othello.runtimeconfig.json
+C:\Users\Hina Zaidi\source\repos\Projects\Othello\Othello\bin\Debug\net6.0\Othello.dll
+C:\Users\Hina Zaidi\source\repos\Projects\Othello\Othello\bin\Debug\net6.0\Othello.pdb
+C:\Users\Hina Zaidi\source\repos\Projects\Othello\Othello\obj\Debug\net6.0\Othello.csproj.AssemblyReference.cache
+C:\Users\Hina Zaidi\source\repos\Projects\Othello\Othello\obj\Debug\net6.0\Othello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hina Zaidi\source\repos\Projects\Othello\Othello\obj\Debug\net6.0\Othello.AssemblyInfoInputs.cache
+C:\Users\Hina Zaidi\source\repos\Projects\Othello\Othello\obj\Debug\net6.0\Othello.AssemblyInfo.cs
+C:\Users\Hina Zaidi\source\repos\Projects\Othello\Othello\obj\Debug\net6.0\Othello.csproj.CoreCompileInputs.cache
+C:\Users\Hina Zaidi\source\repos\Projects\Othello\Othello\obj\Debug\net6.0\Othello.dll
+C:\Users\Hina Zaidi\source\repos\Projects\Othello\Othello\obj\Debug\net6.0\refint\Othello.dll
+C:\Users\Hina Zaidi\source\repos\Projects\Othello\Othello\obj\Debug\net6.0\Othello.pdb
+C:\Users\Hina Zaidi\source\repos\Projects\Othello\Othello\obj\Debug\net6.0\Othello.genruntimeconfig.cache
+C:\Users\Hina Zaidi\source\repos\Projects\Othello\Othello\obj\Debug\net6.0\ref\Othello.dll

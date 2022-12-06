@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Othello", "Othello\Othello.csproj", "{E033408A-8181-44ED-A71E-E64C251C783B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E033408A-8181-44ED-A71E-E64C251C783B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E033408A-8181-44ED-A71E-E64C251C783B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E033408A-8181-44ED-A71E-E64C251C783B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E033408A-8181-44ED-A71E-E64C251C783B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0694BAD-B4CF-48F2-A092-4B5D8F51FC22}
+	EndGlobalSection
+EndGlobal
