@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Print All Upto Input/1.0.0": {
+        "runtime": {
+          "Print All Upto Input.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Print All Upto Input/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
