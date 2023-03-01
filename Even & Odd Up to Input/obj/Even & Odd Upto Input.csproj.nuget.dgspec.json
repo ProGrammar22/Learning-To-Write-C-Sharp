@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "K:\\C#\\Microsoft Visual Studio\\T\\Even & Odd Upto Input\\Even & Odd Upto Input.csproj": {}
+    "M:\\Github\\Learning-To-Write-C-Sharp\\Even & Odd Up to Input\\Even & Odd Upto Input.csproj": {}
   },
   "projects": {
-    "K:\\C#\\Microsoft Visual Studio\\T\\Even & Odd Upto Input\\Even & Odd Upto Input.csproj": {
+    "M:\\Github\\Learning-To-Write-C-Sharp\\Even & Odd Up to Input\\Even & Odd Upto Input.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\C#\\Microsoft Visual Studio\\T\\Even & Odd Upto Input\\Even & Odd Upto Input.csproj",
+        "projectUniqueName": "M:\\Github\\Learning-To-Write-C-Sharp\\Even & Odd Up to Input\\Even & Odd Upto Input.csproj",
         "projectName": "Even & Odd Upto Input",
-        "projectPath": "K:\\C#\\Microsoft Visual Studio\\T\\Even & Odd Upto Input\\Even & Odd Upto Input.csproj",
+        "projectPath": "M:\\Github\\Learning-To-Write-C-Sharp\\Even & Odd Up to Input\\Even & Odd Upto Input.csproj",
         "packagesPath": "C:\\Users\\M\\.nuget\\packages\\",
-        "outputPath": "K:\\C#\\Microsoft Visual Studio\\T\\Even & Odd Upto Input\\obj\\",
+        "outputPath": "M:\\Github\\Learning-To-Write-C-Sharp\\Even & Odd Up to Input\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\M\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\M\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
