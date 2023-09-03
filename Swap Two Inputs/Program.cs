@@ -4,26 +4,22 @@ class Test
 {
     static void Main(string[] args)
     {
-        int b, c, d;
-        string a, e;
-
         Console.Write("First Input = ");
-
-        a = Console.ReadLine();
-
-        b = Convert.ToInt32(a);
+        int firstNumber = Convert.ToInt32(Console.ReadLine());
 
         Console.Write("Second Input = ");
+        int secondNumber = Convert.ToInt32(Console.ReadLine());
 
-        e = Console.ReadLine();
+        Swap(ref firstNumber, ref secondNumber);
 
-        c = Convert.ToInt32(e);
+        Console.WriteLine("First Input = " + firstNumber);
+        Console.WriteLine("Second Input = " + secondNumber);
+    }
 
-        d = c;
-        c = b;
-        b = d;
-
-        Console.WriteLine("Fisrst Input = " + b);
-        Console.WriteLine("Second input = " + c);
+    static void Swap(ref int a, ref int b)
+    {
+        int temp = a;
+        a = b;
+        b = temp;
     }
 }

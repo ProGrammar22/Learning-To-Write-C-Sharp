@@ -4,30 +4,24 @@ class Test
 {
     static void Main(string[] args)
     {
-        decimal b, c, d;
-        string a;
+        decimal sum = 0;
 
-        c = 0;
-        d = 0;
+        int count = 0;
 
-        do
+        while (true)
         {
             Console.Write("Input = ");
+            decimal input = Convert.ToDecimal(Console.ReadLine());
 
-            a = Console.ReadLine();
-
-            b = Convert.ToDecimal(a);
-
-            if (b == -1) break;
+            if (input == -1)
             {
-                c = c + b;
-                d++;
+                break;
             }
+            sum += input;
+            count++;
         }
-        while (b != -1);
+        decimal average = sum / count;
 
-        b = c / d;
-
-        Console.Write("Ans = " + b);
+        Console.Write("Ans = " + average);
     }
 }

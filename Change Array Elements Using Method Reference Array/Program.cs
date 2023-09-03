@@ -8,33 +8,22 @@ class Test
 
         Console.WriteLine("Array = " + arr[0] + "," + arr[1]);
 
-        Change(ref arr);
+        Change(arr);
 
         Console.WriteLine("Array = " + arr[0] + "," + arr[1]);
     }
-    static void Change(ref int[] arr)
+
+    static void Change(int[] arr)
     {
         Console.Write("Choices : 1, 2\n Input : ");
+        int choice = Convert.ToInt32(Console.ReadLine());
 
-        string a = Console.ReadLine();
-        int b = Convert.ToInt32(a);
-
-        if (b == 1)
+        if (choice == 1 || choice == 2)
         {
-            Console.Write("Change " + arr[0] + " to : ");
+            Console.Write("Change " + arr[choice - 1] + " to : ");
+            int newValue = Convert.ToInt32(Console.ReadLine());
 
-            a = Console.ReadLine();
-            b = Convert.ToInt32(a);
-
-            arr[0] = b;
-        }
-        else if (b == 2)
-        {
-            Console.Write("Change " + arr[1] + " to : ");
-
-            a = Console.ReadLine();
-            b = Convert.ToInt32(a);
-            arr[1] = b;
+            arr[choice - 1] = newValue;
         }
         else
         {

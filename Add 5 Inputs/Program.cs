@@ -4,24 +4,17 @@ class Test
 {
     static void Main(string[] args)
     {
-        int c, d, e;
-        string a;
+        int sum = 0;
 
-        d = 0;
-        e = 0;
-
-        do
+        for (int i = 0; i < 5; i++)
         {
             Console.Write("Input = ");
+            string userInput = Console.ReadLine();
 
-            a = Console.ReadLine();
+            int convertedInput = Convert.ToInt32(userInput);
 
-            c = Convert.ToInt32(a);
-            d = d + c;
-            e++;
+            sum += convertedInput;
         }
-        while (e != 5);
-
-        Console.WriteLine("Ans = " + d);
+        Console.WriteLine("Ans = " + sum);
     }
 }

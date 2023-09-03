@@ -4,24 +4,21 @@ class Test
 {
     static void Main(string[] args)
     {
-        int b;
-
+        int convertedInput;
         do
         {
             Console.Write("Input = ");
+            convertedInput = Convert.ToInt32(Console.ReadLine());
 
-            string a = Console.ReadLine();
-
-            b = Convert.ToInt32(a);
-
-            if (b % 2 == 0)
-
+            if (convertedInput % 2 == 0)
+            {
                 Console.WriteLine("Input = Even");
-
+            }
             else
-
+            {
                 Console.WriteLine("Input = Odd");
+            }
         }
-        while (b != -1);
+        while (convertedInput != -1);
     }
 }

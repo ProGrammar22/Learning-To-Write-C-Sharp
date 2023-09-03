@@ -4,30 +4,43 @@ class Test
 {
     static void Main(string[] args)
     {
-        int b, c;
-
         Console.Write("Input = ");
+        int number = Convert.ToInt32(Console.ReadLine());
 
-        string a = Console.ReadLine();
-
-        b = Convert.ToInt32(a);
-        c = 1;
-
-        do
+        if (IsPrime(number))
         {
-            c++;
+            Console.WriteLine(number + " is a Prime Number");
+        }
+        else
+        {
+            Console.WriteLine(number + " is not a Prime Number");
+        }
+    }
 
-            if (b % c == 0)
+    static bool IsPrime(int number)
+    {
+        if (number <= 1)
+        {
+            return false;
+        }
+
+        if (number == 2)
+        {
+            return true;
+        }
+
+        if (number % 2 == 0)
+        {
+            return false;
+        }
+
+        for (int i = 3; i <= Math.Sqrt(number); i += 2)
+        {
+            if (number % i == 0)
             {
-                Console.WriteLine(b + " is not a Primr Number"); break;
+                return false;
             }
         }
-        while (c < b);
-        {
-            if (b % c != 0)
-            {
-                Console.WriteLine(b + " is a Primr Number");
-            }
-        }
+        return true;
     }
 }

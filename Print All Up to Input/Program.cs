@@ -4,20 +4,12 @@ class Test
 {
     static void Main(string[] args)
     {
-        int b, c;
-
         Console.Write("Input = ");
+        int number = Convert.ToInt32(Console.ReadLine());
 
-        string a = Console.ReadLine();
-
-        b = Convert.ToInt32(a);
-        c = 0;
-
-        do
+        for (int i = 1; i <= number; i++)
         {
-            c++;
-            Console.WriteLine("Output = " + c);
+            Console.WriteLine("Output = " + i);
         }
-        while (c != b);
     }
 }

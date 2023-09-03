@@ -5,21 +5,15 @@ class Test
     static void Main(string[] args)
     {
         Console.Write("First Input : ");
-
-        string a = Console.ReadLine();
-        int b = Convert.ToInt32(a);
+        int firstNumber = Convert.ToInt32(Console.ReadLine());
 
         Console.Write("Second Input : ");
+        int secondNumber = Convert.ToInt32(Console.ReadLine());
 
-        a = Console.ReadLine();
-        int c = Convert.ToInt32(a);
-
-        Console.Write("Answer = " + Print(b, c));
+        Console.Write("Answer = " + Multiply(firstNumber, secondNumber));
     }
-    static int Print(int b, int c)
+    static int Multiply(int a, int b)
     {
-        int i = b * c;
-
-        return i;
+        return a * b;
     }
 }

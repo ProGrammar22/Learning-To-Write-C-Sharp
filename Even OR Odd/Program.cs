@@ -1,20 +1,19 @@
 ﻿using System;
+
 class Test
 {
     static void Main(string[] args)
     {
         Console.Write("Input Number: ");
+        int convertedInput = Convert.ToInt32(Console.ReadLine());
 
-        string b = Console.ReadLine();
-
-        int a = Convert.ToInt32(b);
-
-        if (a % 2 == 0)
-
+        if (convertedInput % 2 == 0)
+        {
             Console.Write("Input = Even");
-
+        }
         else
-
+        {
             Console.Write("Input = Odd");
+        }
     }
 }

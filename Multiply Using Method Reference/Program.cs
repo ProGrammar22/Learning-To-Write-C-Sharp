@@ -7,21 +7,17 @@ class Test
         int result = 0;
 
         Console.Write("First Input = ");
-
-        string a = Console.ReadLine();
-        int b = Convert.ToInt32(a);
+        int firstNumber = Convert.ToInt32(Console.ReadLine());
 
         Console.Write("Second Input = ");
+        int secondNumber = Convert.ToInt32(Console.ReadLine());
 
-        a = Console.ReadLine();
-        int c = Convert.ToInt32(a);
-
-        Print(b, c, ref result);
+        Multiply(firstNumber, secondNumber, ref result);
 
         Console.WriteLine("Answer = " + result);
     }
-    static void Print(int b, int c, ref int result)
+    static void Multiply(int firstNumber, int secondNumber, ref int result)
     {
-        result = b * c;
+        result = firstNumber * secondNumber;
     }
 }

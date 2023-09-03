@@ -4,21 +4,14 @@ class Test
 {
     static void Main(string[] args)
     {
-        int c, d, e;
-        string a, b;
-
         Console.Write("Input First Number: ");
-
-        a = Console.ReadLine();
+        int firstConvertedInput = Convert.ToInt32(Console.ReadLine());
 
         Console.Write("Input Second Number: ");
+        int secondConvertedInput = Convert.ToInt32(Console.ReadLine());
 
-        b = Console.ReadLine();
+        int sum = firstConvertedInput + secondConvertedInput;
 
-        c = Convert.ToInt32(a);
-        d = Convert.ToInt32(b);
-        e = c + d;
-
-        Console.WriteLine("Ans = " + e);
+        Console.WriteLine("Ans = " + sum);
     }
 }

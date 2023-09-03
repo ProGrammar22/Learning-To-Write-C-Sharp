@@ -4,16 +4,11 @@ class Test
 {
     static void Main(string[] args)
     {
-        double f;
-
         Console.Write("Input = ");
+        double fahrenheit = Convert.ToDouble(Console.ReadLine());
 
-        string c = Console.ReadLine();
+        fahrenheit = (fahrenheit * 1.8) + 32;
 
-        f = Convert.ToDouble(c);
-
-        f = (f * 1.8) + 32;
-
-        Console.WriteLine(f + " °F");
+        Console.WriteLine(fahrenheit + " °F");
     }
 }

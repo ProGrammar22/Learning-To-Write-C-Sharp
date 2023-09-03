@@ -4,38 +4,30 @@ class Test
 {
     static void Main(string[] args)
     {
-        int c, d, e, f;
-        string a, b;
-
-        d = 0;
-        e = 0;
+        Console.Write("Input = ");
+        int firstNumber = Convert.ToInt32(Console.ReadLine());
 
         Console.Write("Input = ");
+        int secondNumber = Convert.ToInt32(Console.ReadLine());
 
-        a = Console.ReadLine();
+        int lcm = LCM(firstNumber, secondNumber);
 
-        c = Convert.ToInt32(a);
+        Console.WriteLine("LCM = " + lcm);
+    }
 
-        Console.Write("Input = ");
+    static int LCM(int a, int b)
+    {
+        return a * b / GCD(a, b);
+    }
 
-        b = Console.ReadLine();
-
-        f = Convert.ToInt32(b);
-
-        if (c > f)
-
-            d = c;
-
-        else
+    static int GCD(int a, int b)
+    {
+        while (b != 0)
         {
-            d = f;
+            int temp = b;
+            b = a % b;
+            a = temp;
         }
-        for (e = d; ; e += d)
-        {
-            if (e % c == 0 && e % f == 0)
-            {
-                Console.WriteLine("LCM = " + e); break;
-            }
-        }
+        return a;
     }
 }
