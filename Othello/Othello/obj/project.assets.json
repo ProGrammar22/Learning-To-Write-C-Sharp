@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\C#\\Microsoft Visual Studio\\Projects\\Othello\\Othello\\Othello.csproj",
+      "projectUniqueName": "M:\\Github\\Learning-To-Write-C-Sharp\\Othello\\Othello\\Othello.csproj",
       "projectName": "Othello",
-      "projectPath": "K:\\C#\\Microsoft Visual Studio\\Projects\\Othello\\Othello\\Othello.csproj",
+      "projectPath": "M:\\Github\\Learning-To-Write-C-Sharp\\Othello\\Othello\\Othello.csproj",
       "packagesPath": "C:\\Users\\M\\.nuget\\packages\\",
-      "outputPath": "K:\\C#\\Microsoft Visual Studio\\Projects\\Othello\\Othello\\obj\\",
+      "outputPath": "M:\\Github\\Learning-To-Write-C-Sharp\\Othello\\Othello\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\M\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
